@@ -1,0 +1,1 @@
+#C5-E number 5.63 provides a setup and a [[Mechanics (Symon)|reference]] to demonstrate some details about a [[rope]] in [[equilibrium]] as this [[definite size and a definite shape|shape]]. The [[models|modeling]] steps for the [[wave equation]] may provide further inroads.

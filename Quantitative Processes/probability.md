@@ -1,0 +1,1 @@
+A class of [[physical quantities]] which describes [[how often]] or [[how much on average]] an [[event]] can be [[expectation value|expected]] to be [[experiment or measurement|measured in an experiment]].

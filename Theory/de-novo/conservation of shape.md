@@ -1,0 +1,1 @@
+In the scope of [[thermal expansion]], the [[definite size and a definite shape]] of a [[solid]] under expansion, *all* dimensions change -- it's not inflation it's dilation. #Caution 

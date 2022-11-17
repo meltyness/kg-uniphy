@@ -1,0 +1,1 @@
+In #19thCentury discovered that an [[electrical current]] deflects a [[magnetic compass]], which implies the production of a [[magnetic field]]. A [[physicists]]

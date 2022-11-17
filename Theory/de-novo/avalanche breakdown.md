@@ -1,0 +1,1 @@
+A type of [[cascade]] or [[avalanche]] operating mode where the [[kinetic energy]] and [[subatomic particle collisions]] confer enough to increase [[concentration]] of carriers.

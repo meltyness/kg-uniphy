@@ -1,0 +1,3 @@
+#C28-E 
+
+Explored in Q28.20, a #20thCentury result from [[Albert Einstein]] regarding the operation of a [[solenoid, and current loops#with a permanent magnet ferromagnetic material ferromagnetic core|solenoid with a free ferromagnetic core]] which illustrates [[magnetic hysteresis]] and produces [[kinematics of rotational motion of rigid bodies|rotation]], and also may imply [[stress]] in a fixed [[self inductance, and inductors|inductor]].

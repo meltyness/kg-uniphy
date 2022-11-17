@@ -1,0 +1,3 @@
+- [[heat radiation and absorption, thermal radiation]]
+- [[chemical reaction]]
+- [[cathode]], [[cathode ray tube]], [[heating coil]]

@@ -1,0 +1,1 @@
+A [[build, or part|part]] of an [[optical instrument]] that equally separates an [[optical ray]] via its [[optical surface properties of materials]] under [[human control]] [[deposition and epitaxy]] [[material mixture|application]] of [[silver]] which results in two [[coherent waves]] of [[optical ray]] emerging.

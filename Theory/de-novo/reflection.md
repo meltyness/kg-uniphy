@@ -1,0 +1,10 @@
+#ConstructorTheory a type of [[task]], most similar to [[collision]]
+
+- [[ideal blackbody]]
+- [[reflection of mechanical waves]]
+- [[reflection of electromagnetic waves]]
+	- [[law of specular reflection]]
+	- [[law of dielectric reflection, and phase shifting]]
+	- [[scattering]]
+- [[reflection of sound waves]]
+- [[energy transformation and heat flow]]

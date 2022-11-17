@@ -1,0 +1,1 @@
+Principles of [[dynamics of rigid bodies]] and [[inertia]] can be used to determine whether or not an egg has been cooked.

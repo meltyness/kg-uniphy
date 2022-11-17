@@ -1,0 +1,5 @@
+- Projectile motion on an Incline #C3-E, 3.89 **putting up a ramp**
+	- I.R. Lapidus in *American Journal of Physics*., Vol. 51 (1983), pp 806, 847
+	- H.A. Buckmaster in *American Journal of Physics.,* Vol. 53 (1985), pp 638-641
+- Model of a raindrop #C8-E, 8.116, **raindrop analysis**
+	- K.S. Krane in *American Journal of Physics.,* Vol. 49 (1981), pp. 113-117

@@ -1,0 +1,1 @@
+This follows from observation of the [[Joule-Thomson Effect]]

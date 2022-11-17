@@ -1,0 +1,2 @@
+#C335
+A sort of [[sorting]] for [[polarization of optical rays#circular elliptical polarization|elliptical polarization]] through a [[polymer]], which serves as a [[measurement device]] and a kind of [[photonic computing]]

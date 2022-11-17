@@ -1,0 +1,1 @@
+- #WaitWhat What materials have an index of refraction that varies strongly with the [[electric field]] [[magnetic field]]?

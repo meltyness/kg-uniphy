@@ -1,0 +1,1 @@
+An [[complete electrical circuit]] that produces an [[AC circuits]] from a [[DC circuits]].

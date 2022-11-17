@@ -1,0 +1,1 @@
+A result of [[fluid mechanics]], where in a [[fluid flow]] [[machine]] such as for [[irrigation, sewers, and water]] or other higher [[pressure]] scenarios such as [[cooling and condensing]] [[cascade]].

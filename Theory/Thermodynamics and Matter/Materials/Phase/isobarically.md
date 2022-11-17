@@ -1,0 +1,1 @@
+For a given [[material system]], constant [[pressure]] through a change to the [[thermodynamic state]].

@@ -1,0 +1,1 @@
+In [[differential equation, or principle]]

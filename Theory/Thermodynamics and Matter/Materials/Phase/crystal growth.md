@@ -1,0 +1,1 @@
+A high-[[temperature]] activity where [[silicon]] is influenced by [[intermolecular long-range order|seeding]]

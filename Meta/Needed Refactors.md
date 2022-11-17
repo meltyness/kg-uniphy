@@ -1,0 +1,37 @@
+- [ ] Walk every link to [[rigid body]] and check if it really means:
+	- [ ] [[soft body]] 
+	- [ ] [[body]]
+	- [ ] [[mechanical system]]
+	- [ ] [[isolated system]]
+- [ ] Codify the principle of [[maximally delay formulation]] (strategically this means DO things!! You're formulating not just theory but also applications!)
+	- [ ] From concepts and principles push formulation out to as specific a situation as possible, maintaining the purity of concept map.
+	- [ ] What is [[archaic]] versus definitional?!
+	- [ ] Still direly need to do this for some top-level articles
+- [x] Chapter 14 went really badly for me.
+	- [x] Review this
+- [ ] Well that's presumptious
+- [ ] What are the synonyms for [[human control]]?
+- [ ] Who was pointing to [[probability density]]
+	- [ ] "regular"
+	- [ ] "range of"
+	- [ ] "distributed"
+- [ ] Where *specifically* are all of the [[duality]] that have been identified and resolved
+	- [ ] [[Newton's law of gravitation]] vs [[Kepler's laws]]
+	- [ ] what principles resolved them?
+- [x] Organize [[material]]
+	- [x] Organize simple macro -> complex macro -> complex micro -> simple micro?
+- [ ] Where is the exact "extreme" "natural" boundary at?
+- [ ] [[electronic configuration, and ionization]]
+- [ ] What tools do I need to refactor things?
+	- [ ] I want to be able to peel apart synonyms better.
+	- [ ] I want to be able to find generalizations and [[de novo]] ideas more easily.
+- [ ] Where *exactly* did we use [[employ deductive reasoning]]
+- [ ] ~~Description~~ -> Explanation
+- [ ] no one ever makes it out of texas
+- [ ] These all seem to bear a related 
+	- Corona treatment is a process to use plasma to ionize and modify the surface tension of polymers. 
+	- Anodization is a process to use electric current and electrolysis to modify the surface composition of metals.
+	- Annealing is a process where heat is used to cause a material phase change the ordering status of the material internally.
+- [ ] Who points to [[describe outcomes]]
+- [ ] #DisregardPurpose
+- [ ] [Cognitive dimensions of notations - Wikipedia](https://en.m.wikipedia.org/wiki/Cognitive_dimensions_of_notations)

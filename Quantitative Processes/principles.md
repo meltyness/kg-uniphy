@@ -1,0 +1,1 @@
+A kind of a [[physical laws and principles]] that constrains [[explanation]].

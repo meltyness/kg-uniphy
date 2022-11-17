@@ -1,0 +1,1 @@
+For example [[celsius]] is a measure that requires 4 [[generalized coordinates]] regarding the physical significance of the measure, wheras [[kelvin]] ranges from [[absolute zero]] to a single, specific [[thermodynamic state]].

@@ -1,0 +1,1 @@
+The [[states|state]] of a system given $t\rightarrow \infty$.

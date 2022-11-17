@@ -1,0 +1,1 @@
+A predicted entity in [[superconductor]] where all of the [[electrons]] exist as a pair. 

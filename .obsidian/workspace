@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "26fc29f528de2808",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a221f7d6e652bb7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Application/human limitations.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cee47af7df5c0da5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2f1e1437fefbde0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dcd74ca9df62c42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbdfcc63bec7ce29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "epitaxy",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.0036334991455
+  },
+  "right": {
+    "id": "588cba5df20bce62",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3936d2ab923490a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fb205ecf30f89e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Application/human limitations.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "868eac2a38e0f01f",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ed5e9d01ead9cd3",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.50201416015625
+  },
+  "active": "2a221f7d6e652bb7",
+  "lastOpenFiles": [
+    "normal force.md",
+    "Theory/Thermodynamics and Matter/quantum mechanics.md",
+    "Theory/Thermodynamics and Matter/Atoms/atom.md",
+    "Theory/Electromagnetism/electronic configuration, and ionization.md",
+    "Schrödinger equation.md",
+    "Meta/Activity Log.md",
+    "quantum electrodynamics.md",
+    "Theory/Quantum Mechanics/photon.md",
+    "Theory/statistical mechanics.md",
+    "Scientific Processes/Experimentation/Implements/photocell, and photomultiplier.md"
+  ]
+}

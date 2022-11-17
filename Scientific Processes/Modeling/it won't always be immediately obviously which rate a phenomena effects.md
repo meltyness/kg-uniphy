@@ -1,0 +1,1 @@
+In the study of [[rocket propulsion]], we observed that to correctly model this phenomena we needed to take the time-derivative of [[mass]].

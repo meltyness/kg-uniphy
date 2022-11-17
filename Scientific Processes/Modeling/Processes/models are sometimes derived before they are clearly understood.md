@@ -1,0 +1,3 @@
+- [[Dirac equation]] in [[quantum electrodynamics]] predicted existence of [[antiparticle]] and [[electron-positron pair production]].
+- The [[eightfold way]] was used to predict the existence of certain [[hadron]], before they were detected experimentally.
+- This is the motivation behind [[enumerate all apparently permissible configurations]].

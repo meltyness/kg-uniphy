@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "formula -file:formula",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "content:(#C1- OR #C2- OR #C3- OR #C4- OR #C5- OR #C6- OR #C7- OR #C8- OR #C9- OR #C10- OR #C11- OR #C12-)",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "content:(#C13- OR #C14- OR #C15- OR #C16- OR #C17- OR #C18- OR #C19- OR #C20-)",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "content:(#C21- OR #C22- OR #C23- OR #C24- OR #C25- OR #C26- OR #C27- OR #C28- OR #C29- OR #C30- OR #C31-)",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "content:(#C32- OR #C33- OR #C34- OR #C35- OR #C36- OR #C37-)",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "content:(#C38- OR #C39- OR #C40- OR #C41- OR #C42- OR #C43- OR #C44-)",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 0.1,
+  "collapse-forces": true,
+  "centerStrength": 0.790896950812375,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.16348370567220585,
+  "close": false
+}

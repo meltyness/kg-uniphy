@@ -1,0 +1,3 @@
+#C24-1 
+Relates the [[net charge]] in [[coulomb]] capacity of a [[ideal capacitor]], per unit [[volt]] or [[voltage, or electric potential]]...
+$$\text{1 F = 1 farad = 1 C/V = 1 coulomb/volt}$$

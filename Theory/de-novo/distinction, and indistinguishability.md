@@ -1,0 +1,1 @@
+A [[task]] in #ConstructorTheory that is apparently possible, whereby a [[measurement device]] is able to establish a [[differential equation, or principle]] for an [[integer]] number of [[abstract negligible facets]].

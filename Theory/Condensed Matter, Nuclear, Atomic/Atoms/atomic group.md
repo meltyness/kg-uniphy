@@ -1,0 +1,1 @@
+1-7 and [[actanoid]] or [[lanthanoid]]

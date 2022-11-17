@@ -1,0 +1,2 @@
+#20thCentury  [Airy also described an infinite sequence for the solution of differential equations](obsidian://open?vault=Calculus%20Review&file=Airy%20series)
+A pinhole camera also leads to the productioin of a [[bullseye]]. #ProofDeferred 

@@ -1,0 +1,1 @@
+#19thCentury [[physicists]] who pioneered investigation of [[electromagnetic interaction]]

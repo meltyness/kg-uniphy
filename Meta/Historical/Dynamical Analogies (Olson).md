@@ -1,0 +1,1 @@
+-   H.F. Olson, _Dynamical Analogies_, Van Nostrand, 2 ed, 1958

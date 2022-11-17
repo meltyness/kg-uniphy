@@ -1,0 +1,2 @@
+#C44-3 
+A [[measurement device]] that uses [[electrical wire, or terminal]] and [[semiconductors]], to detect [[path]], [[energy]], and uses [[electronic computers]] to reconstruct, store, and display with precise [[synchronization]].

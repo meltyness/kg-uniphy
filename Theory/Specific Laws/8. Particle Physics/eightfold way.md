@@ -1,0 +1,1 @@
+In an effort to [[enumerate all apparently permissible configurations]], for [[hadron]] existence, and properties.

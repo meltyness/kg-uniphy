@@ -1,0 +1,1 @@
+Due to [[quantum tunneling]] effects when with a sufficiently high [[voltage, or electric potential]] that [[electrons]] can traverse the [[valence energy band]] to the [[conduction energy band]] across a [[p-n junction diode]].

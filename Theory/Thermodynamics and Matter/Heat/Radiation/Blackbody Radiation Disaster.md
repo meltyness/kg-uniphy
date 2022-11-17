@@ -1,0 +1,1 @@
+Presented the [[duality]] resolved by [[quantum mechanics]], with regard to [[ideal blackbody]] and [[natural light, and continuous spectra]]

@@ -1,0 +1,1 @@
+ The [[root-mean square]] is a kind of [[weighted sum]] $$v_\text{rms}=\sqrt{E[v^2]}=\sqrt{\int_0^\infty v^2f(v)dv}$$

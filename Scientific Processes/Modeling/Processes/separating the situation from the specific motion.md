@@ -1,0 +1,1 @@
+[[energy]] separates [[kinematics]] from other [[physical quantities]].

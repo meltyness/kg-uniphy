@@ -1,0 +1,1 @@
+Similar to [[light is due to a wavelike disturbance between the electrical and magnetic fields]], as uncovered by the [[de Broglie wavelength]] and rigorously described by the adherence to the [[complementarity principle]].

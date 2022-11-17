@@ -1,0 +1,1 @@
+The analysis of [[build, or part]] of any [[machine]] to [[human control|prevent]] [[disaster]]

@@ -1,0 +1,1 @@
+These may be characterized by a single energy level, corresponding to [[equilibrium]] $E_n$ 

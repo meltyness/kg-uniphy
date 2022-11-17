@@ -1,0 +1,2 @@
+#C44-3 
+A [[machine]] uses [[transistor]], [[electronic devices]] and [[electrical current]] to leverage [[abstract negligible facets|abstractions]] and [[formula]] for [[making predictions with physics]], as well as prepare [[communications]] for [[physicists]].

@@ -1,0 +1,1 @@
+Performed using a [[emission spectra, absorption spectra and diffraction grating, spectroscopy]]
