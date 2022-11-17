@@ -10,4 +10,4 @@ Additional processes that can result in a [[breakthrough]] is to
 
 This is called an [[experiment or measurement]].
 
-[Systems Analysis.pdf](file:///C:/Users/thomas/OneDrive/Documents/PhysTrack/Systems%20Analysis.pdf)
+See also, systems analysis.

@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1039bb990c348206",
+        "id": "2ffef7109b721e2d",
         "type": "tabs",
         "children": [
           {
-            "id": "a4cafa6feecd445b",
+            "id": "1b1643b4ada1e29b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Meta/Images/Pasted image 20221018072633.png"
+              }
             }
           }
         ]
@@ -44,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "noether",
+                "query": ".pdf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Meta/Images/Pasted image 20221018072633.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +108,17 @@
     "direction": "horizontal",
     "width": 230.50201416015625
   },
-  "active": "a4cafa6feecd445b",
+  "active": "1b1643b4ada1e29b",
   "lastOpenFiles": [
-    "The Application/Mechanical Engineering/facilities.md",
-    "The Application/brick.md",
-    "Theory/Thermodynamics and Matter/thermal conduction.md",
-    "science.md",
-    "physics.md",
-    "Meta/Needed Refactors.md",
-    "Scientific Processes/Modeling/models.md",
-    "Meta/Images/Pasted image 20221004183529.png",
+    "Meta/Images/Pasted image 20221007120705.png",
+    "Meta/Images/Pasted image 20221006112402.png",
     "Meta/Images/Pasted image 20221005104555.png",
-    "Meta/Images/Pasted image 20221018072633.png"
+    "Meta/Images/Pasted image 20221004183529.png",
+    "Meta/Images/Pasted image 20221003135534.png",
+    "Meta/Images/Pasted image 20220920150617.png",
+    "Meta/Images/Pasted image 20220916224711.png",
+    "Meta/Images/Pasted image 20220908100501.png",
+    "Meta/Images/Pasted image 20220907202251.png",
+    "Meta/Images/Pasted image 20220906141438.png"
   ]
 }

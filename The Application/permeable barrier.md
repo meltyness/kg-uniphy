@@ -10,4 +10,4 @@ Closely related to the [[breakable partition]]
 		- ~~since the "fast stuff" is applying more pressure, and , it is more likely to get through.~~
 		- [x] [Tortuosity - Wikipedia](https://en.wikipedia.org/wiki/Tortuosity) [[tortuosity]] 
 
-![[membrane science.pdf]]
+See "Membrane Science" by Lloyd
