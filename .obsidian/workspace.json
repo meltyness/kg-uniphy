@@ -4,7 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "459381a993899658",
+        "id": "bcb518097e114957",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "100de203fcf725d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e8a547bf9b20376d",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5110321044922
+    "width": 200
   },
   "right": {
     "id": "588cba5df20bce62",
@@ -110,17 +128,17 @@
     "direction": "horizontal",
     "width": 230.50201416015625
   },
-  "active": "249f5b7faaff0a80",
+  "active": "100de203fcf725d2",
   "lastOpenFiles": [
+    "physics.md",
+    "README.md",
+    "The Application/engineering of materials.md",
+    "Theory/Quantum Mechanics/quantum mechanics.md",
+    "science.md",
+    "Scientific Processes/Experimentation/hypotheses.md",
     "The Application/Mechanical Engineering/facilities.md",
     "Theory/General/equilibrium.md",
     "Theory/Thermodynamics and Matter/Processes/thermal equilibrium.md",
-    "Theory/Thermodynamics and Matter/thermodynamics.md",
-    "physics.md",
-    "Theory/statistical mechanics.md",
-    "Theory/de-novo/distinction, and indistinguishability.md",
-    "Quantitative Processes/Scalars/precision, accuracy, uncertainty, and significant figures.md",
-    "science.md",
-    "Meta/Images/Pasted image 20221018072633.png"
+    "Theory/Thermodynamics and Matter/thermodynamics.md"
   ]
 }
