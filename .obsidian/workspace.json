@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "physics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,17 +128,17 @@
     "direction": "horizontal",
     "width": 230.50201416015625
   },
-  "active": "100de203fcf725d2",
+  "active": "1dcd74ca9df62c42",
   "lastOpenFiles": [
-    "physics.md",
     "README.md",
+    "Pasted image 20221117171636.png",
+    "physics.md",
     "The Application/engineering of materials.md",
     "Theory/Quantum Mechanics/quantum mechanics.md",
     "science.md",
     "Scientific Processes/Experimentation/hypotheses.md",
     "The Application/Mechanical Engineering/facilities.md",
     "Theory/General/equilibrium.md",
-    "Theory/Thermodynamics and Matter/Processes/thermal equilibrium.md",
-    "Theory/Thermodynamics and Matter/thermodynamics.md"
+    "Theory/Thermodynamics and Matter/Processes/thermal equilibrium.md"
   ]
 }
